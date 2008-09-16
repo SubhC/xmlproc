@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logic>
+	<example1>
+		<print value="Hello World, I am XProg." />
+		<print value="This is my First XML Program." />
+	</example1>
+	<example2>
+		<if lvalue="10" operator="LT" rvalue="12">
+			<print value="10 is less than 12" />
+			<else>
+				<print value="10 is not less than 12" />
+			</else>
+		</if>
+	</example2>
+	<example3>
+		<for start="12" end="24" step="1">
+		<print value="Value of Start " />
+		<print value="start" />
+		<if lvalue="start" operator="GT" rvalue="20">
+			<print value="Start is Grater than 20" />
+		</if>
+		</for>
+	</example3>
+</logic>
