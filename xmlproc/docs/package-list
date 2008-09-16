@@ -1,0 +1,9 @@
+org.eshark.xmlprog.api
+org.eshark.xmlprog.cache
+org.eshark.xmlprog.exception
+org.eshark.xmlprog.logic
+org.eshark.xmlprog.reflect
+org.eshark.xmlprog.service
+org.eshark.xmlprog.test
+org.eshark.xmlprog.util
+org.eshark.xmlprog.vo

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE classes SYSTEM "http://dtd/class-cache.dtd">
+<classes>
+	<class key="print">org.eshark.xmlprog.logic.Print</class>
+	<class key="if">org.eshark.xmlprog.logic.If</class>
+	<class key="for">org.eshark.xmlprog.logic.For</class>
+</classes>
